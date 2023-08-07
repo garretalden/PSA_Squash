@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import openpyxl
 
-#Creating year columns
+#Creating year columns below:
 y = 1929
 years = []
 years.append(y)
